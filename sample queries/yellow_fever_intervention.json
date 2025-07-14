@@ -1,0 +1,782 @@
+﻿[
+  {
+    "i": {
+      "identity": 287,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "643",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "643",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:287"
+    }
+  },
+  {
+    "i": {
+      "identity": 288,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "644",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "644",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:288"
+    }
+  },
+  {
+    "i": {
+      "identity": 289,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "647",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "647",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:289"
+    }
+  },
+  {
+    "i": {
+      "identity": 290,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "650",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "650",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:290"
+    }
+  },
+  {
+    "i": {
+      "identity": 291,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "659",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "659",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:291"
+    }
+  },
+  {
+    "i": {
+      "identity": 292,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "662",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "662",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:292"
+    }
+  },
+  {
+    "i": {
+      "identity": 293,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "664",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "664",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:293"
+    }
+  },
+  {
+    "i": {
+      "identity": 294,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "674",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "674",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:294"
+    }
+  },
+  {
+    "i": {
+      "identity": 295,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "682",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "682",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:295"
+    }
+  },
+  {
+    "i": {
+      "identity": 296,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "686",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "686",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:296"
+    }
+  },
+  {
+    "i": {
+      "identity": 297,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "689",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "689",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:297"
+    }
+  },
+  {
+    "i": {
+      "identity": 298,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "692",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "692",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:298"
+    }
+  },
+  {
+    "i": {
+      "identity": 299,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "695",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "695",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:299"
+    }
+  },
+  {
+    "i": {
+      "identity": 300,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "698",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "698",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:300"
+    }
+  },
+  {
+    "i": {
+      "identity": 301,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "702",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "702",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:301"
+    }
+  },
+  {
+    "i": {
+      "identity": 302,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "708",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "708",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:302"
+    }
+  },
+  {
+    "i": {
+      "identity": 303,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "736",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "736",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:303"
+    }
+  },
+  {
+    "i": {
+      "identity": 304,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "739",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "739",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:304"
+    }
+  },
+  {
+    "i": {
+      "identity": 305,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "742",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "742",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:305"
+    }
+  },
+  {
+    "i": {
+      "identity": 306,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "745",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "745",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:306"
+    }
+  },
+  {
+    "i": {
+      "identity": 307,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "747",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "747",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:307"
+    }
+  },
+  {
+    "i": {
+      "identity": 308,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "749",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "749",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:308"
+    }
+  },
+  {
+    "i": {
+      "identity": 309,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "752",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "752",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:309"
+    }
+  },
+  {
+    "i": {
+      "identity": 310,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "755",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "755",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:310"
+    }
+  },
+  {
+    "i": {
+      "identity": 311,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "758",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "758",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:311"
+    }
+  },
+  {
+    "i": {
+      "identity": 312,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "761",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "761",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:312"
+    }
+  },
+  {
+    "i": {
+      "identity": 313,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "763",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "763",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:313"
+    }
+  },
+  {
+    "i": {
+      "identity": 314,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "769",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "769",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:314"
+    }
+  },
+  {
+    "i": {
+      "identity": 315,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "771",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "771",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:315"
+    }
+  },
+  {
+    "i": {
+      "identity": 316,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "773",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "643",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "773",
+        "material": "Yellow fever 17D vaccine vector",
+        "intervention_time": "0",
+        "material_id": "VO_0000122",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:316"
+    }
+  }
+]

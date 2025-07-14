@@ -1,0 +1,4344 @@
+﻿[
+  {
+    "i": {
+      "identity": 241,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "466",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "466",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:241"
+    }
+  },
+  {
+    "i": {
+      "identity": 242,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "469",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "469",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:242"
+    }
+  },
+  {
+    "i": {
+      "identity": 243,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "473",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "473",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:243"
+    }
+  },
+  {
+    "i": {
+      "identity": 244,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "477",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "477",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:244"
+    }
+  },
+  {
+    "i": {
+      "identity": 245,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "478",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "478",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:245"
+    }
+  },
+  {
+    "i": {
+      "identity": 246,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "482",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "482",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:246"
+    }
+  },
+  {
+    "i": {
+      "identity": 247,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "485",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "485",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:247"
+    }
+  },
+  {
+    "i": {
+      "identity": 248,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "489",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "489",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:248"
+    }
+  },
+  {
+    "i": {
+      "identity": 249,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "493",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "493",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:249"
+    }
+  },
+  {
+    "i": {
+      "identity": 250,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "497",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "497",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:250"
+    }
+  },
+  {
+    "i": {
+      "identity": 251,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "501",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "501",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:251"
+    }
+  },
+  {
+    "i": {
+      "identity": 252,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "505",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "505",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:252"
+    }
+  },
+  {
+    "i": {
+      "identity": 253,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "509",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "509",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:253"
+    }
+  },
+  {
+    "i": {
+      "identity": 254,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "512",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "512",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:254"
+    }
+  },
+  {
+    "i": {
+      "identity": 255,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "515",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "515",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:255"
+    }
+  },
+  {
+    "i": {
+      "identity": 256,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "519",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "519",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:256"
+    }
+  },
+  {
+    "i": {
+      "identity": 257,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "523",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "523",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:257"
+    }
+  },
+  {
+    "i": {
+      "identity": 258,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "527",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "527",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:258"
+    }
+  },
+  {
+    "i": {
+      "identity": 259,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "531",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "531",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:259"
+    }
+  },
+  {
+    "i": {
+      "identity": 260,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "535",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "535",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:260"
+    }
+  },
+  {
+    "i": {
+      "identity": 261,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "539",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "539",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:261"
+    }
+  },
+  {
+    "i": {
+      "identity": 262,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "543",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "543",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:262"
+    }
+  },
+  {
+    "i": {
+      "identity": 263,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "547",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "547",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:263"
+    }
+  },
+  {
+    "i": {
+      "identity": 264,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "551",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "551",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:264"
+    }
+  },
+  {
+    "i": {
+      "identity": 265,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "555",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "555",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:265"
+    }
+  },
+  {
+    "i": {
+      "identity": 266,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "559",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "466",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "559",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:266"
+    }
+  },
+  {
+    "i": {
+      "identity": 813,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2641",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2641",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:813"
+    }
+  },
+  {
+    "i": {
+      "identity": 814,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2645",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2645",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:814"
+    }
+  },
+  {
+    "i": {
+      "identity": 815,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2648",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2648",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:815"
+    }
+  },
+  {
+    "i": {
+      "identity": 816,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2652",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2652",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:816"
+    }
+  },
+  {
+    "i": {
+      "identity": 817,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2656",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2656",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:817"
+    }
+  },
+  {
+    "i": {
+      "identity": 818,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2660",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2660",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:818"
+    }
+  },
+  {
+    "i": {
+      "identity": 819,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2663",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2663",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:819"
+    }
+  },
+  {
+    "i": {
+      "identity": 820,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2667",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2667",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:820"
+    }
+  },
+  {
+    "i": {
+      "identity": 821,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2671",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2671",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:821"
+    }
+  },
+  {
+    "i": {
+      "identity": 822,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2675",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2675",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:822"
+    }
+  },
+  {
+    "i": {
+      "identity": 823,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2679",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2679",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:823"
+    }
+  },
+  {
+    "i": {
+      "identity": 824,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2683",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2683",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:824"
+    }
+  },
+  {
+    "i": {
+      "identity": 825,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2687",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2687",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:825"
+    }
+  },
+  {
+    "i": {
+      "identity": 826,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2690",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2690",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:826"
+    }
+  },
+  {
+    "i": {
+      "identity": 827,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2694",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2694",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:827"
+    }
+  },
+  {
+    "i": {
+      "identity": 828,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2698",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2698",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:828"
+    }
+  },
+  {
+    "i": {
+      "identity": 829,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2702",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2702",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:829"
+    }
+  },
+  {
+    "i": {
+      "identity": 830,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2705",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2705",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:830"
+    }
+  },
+  {
+    "i": {
+      "identity": 831,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "2709",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "2641",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "2709",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:831"
+    }
+  },
+  {
+    "i": {
+      "identity": 957,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3438",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3438",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:957"
+    }
+  },
+  {
+    "i": {
+      "identity": 958,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3442",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3442",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:958"
+    }
+  },
+  {
+    "i": {
+      "identity": 959,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3446",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3446",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:959"
+    }
+  },
+  {
+    "i": {
+      "identity": 960,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3450",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3450",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:960"
+    }
+  },
+  {
+    "i": {
+      "identity": 961,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3454",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3454",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:961"
+    }
+  },
+  {
+    "i": {
+      "identity": 962,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3458",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3458",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:962"
+    }
+  },
+  {
+    "i": {
+      "identity": 963,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3462",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3462",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:963"
+    }
+  },
+  {
+    "i": {
+      "identity": 964,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3466",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3466",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:964"
+    }
+  },
+  {
+    "i": {
+      "identity": 965,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3470",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3470",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:965"
+    }
+  },
+  {
+    "i": {
+      "identity": 966,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3474",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3474",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:966"
+    }
+  },
+  {
+    "i": {
+      "identity": 967,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3478",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3478",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:967"
+    }
+  },
+  {
+    "i": {
+      "identity": 968,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3482",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3482",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:968"
+    }
+  },
+  {
+    "i": {
+      "identity": 969,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3486",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3486",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:969"
+    }
+  },
+  {
+    "i": {
+      "identity": 970,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3490",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3490",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:970"
+    }
+  },
+  {
+    "i": {
+      "identity": 971,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3494",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3494",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:971"
+    }
+  },
+  {
+    "i": {
+      "identity": 972,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3498",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3498",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:972"
+    }
+  },
+  {
+    "i": {
+      "identity": 973,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3502",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3502",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:973"
+    }
+  },
+  {
+    "i": {
+      "identity": 974,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3506",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3506",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:974"
+    }
+  },
+  {
+    "i": {
+      "identity": 975,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3510",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3510",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:975"
+    }
+  },
+  {
+    "i": {
+      "identity": 976,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3514",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3514",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:976"
+    }
+  },
+  {
+    "i": {
+      "identity": 977,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3518",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3518",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:977"
+    }
+  },
+  {
+    "i": {
+      "identity": 978,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3522",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3522",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:978"
+    }
+  },
+  {
+    "i": {
+      "identity": 979,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3526",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3526",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:979"
+    }
+  },
+  {
+    "i": {
+      "identity": 980,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3530",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3530",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:980"
+    }
+  },
+  {
+    "i": {
+      "identity": 981,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3534",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3534",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:981"
+    }
+  },
+  {
+    "i": {
+      "identity": 982,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3538",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3538",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:982"
+    }
+  },
+  {
+    "i": {
+      "identity": 983,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3542",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3542",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:983"
+    }
+  },
+  {
+    "i": {
+      "identity": 984,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3546",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3546",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:984"
+    }
+  },
+  {
+    "i": {
+      "identity": 985,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3550",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3550",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:985"
+    }
+  },
+  {
+    "i": {
+      "identity": 986,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3554",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3554",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:986"
+    }
+  },
+  {
+    "i": {
+      "identity": 987,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3558",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3558",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:987"
+    }
+  },
+  {
+    "i": {
+      "identity": 988,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3562",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3562",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:988"
+    }
+  },
+  {
+    "i": {
+      "identity": 989,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3566",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3566",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:989"
+    }
+  },
+  {
+    "i": {
+      "identity": 990,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3570",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3570",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:990"
+    }
+  },
+  {
+    "i": {
+      "identity": 991,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3574",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3574",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:991"
+    }
+  },
+  {
+    "i": {
+      "identity": 992,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3578",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3578",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:992"
+    }
+  },
+  {
+    "i": {
+      "identity": 993,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3582",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3582",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:993"
+    }
+  },
+  {
+    "i": {
+      "identity": 994,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3586",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3586",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:994"
+    }
+  },
+  {
+    "i": {
+      "identity": 995,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "3590",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "3438",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "3590",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:995"
+    }
+  },
+  {
+    "i": {
+      "identity": 1095,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4158",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4158",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1095"
+    }
+  },
+  {
+    "i": {
+      "identity": 1096,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4159",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4159",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1096"
+    }
+  },
+  {
+    "i": {
+      "identity": 1097,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4160",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4160",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1097"
+    }
+  },
+  {
+    "i": {
+      "identity": 1098,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4161",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4161",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1098"
+    }
+  },
+  {
+    "i": {
+      "identity": 1099,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4162",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4162",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1099"
+    }
+  },
+  {
+    "i": {
+      "identity": 1100,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4163",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4163",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1100"
+    }
+  },
+  {
+    "i": {
+      "identity": 1101,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4164",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4164",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1101"
+    }
+  },
+  {
+    "i": {
+      "identity": 1102,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4165",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4165",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1102"
+    }
+  },
+  {
+    "i": {
+      "identity": 1103,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4166",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4166",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1103"
+    }
+  },
+  {
+    "i": {
+      "identity": 1104,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4167",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4167",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1104"
+    }
+  },
+  {
+    "i": {
+      "identity": 1105,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4168",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4168",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1105"
+    }
+  },
+  {
+    "i": {
+      "identity": 1106,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4169",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4169",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1106"
+    }
+  },
+  {
+    "i": {
+      "identity": 1107,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4170",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4170",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1107"
+    }
+  },
+  {
+    "i": {
+      "identity": 1108,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4171",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4171",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1108"
+    }
+  },
+  {
+    "i": {
+      "identity": 1109,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4172",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4172",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1109"
+    }
+  },
+  {
+    "i": {
+      "identity": 1110,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4173",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4173",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1110"
+    }
+  },
+  {
+    "i": {
+      "identity": 1111,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4174",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4174",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1111"
+    }
+  },
+  {
+    "i": {
+      "identity": 1112,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4175",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4175",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1112"
+    }
+  },
+  {
+    "i": {
+      "identity": 1113,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4176",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4176",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1113"
+    }
+  },
+  {
+    "i": {
+      "identity": 1114,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4206",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4206",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1114"
+    }
+  },
+  {
+    "i": {
+      "identity": 1115,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4405",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4405",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1115"
+    }
+  },
+  {
+    "i": {
+      "identity": 1116,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4406",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4406",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1116"
+    }
+  },
+  {
+    "i": {
+      "identity": 1117,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4414",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4414",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1117"
+    }
+  },
+  {
+    "i": {
+      "identity": 1118,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4415",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4415",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1118"
+    }
+  },
+  {
+    "i": {
+      "identity": 1119,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4416",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4416",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1119"
+    }
+  },
+  {
+    "i": {
+      "identity": 1120,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4417",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4417",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1120"
+    }
+  },
+  {
+    "i": {
+      "identity": 1121,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4418",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4418",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1121"
+    }
+  },
+  {
+    "i": {
+      "identity": 1122,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4419",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4419",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1122"
+    }
+  },
+  {
+    "i": {
+      "identity": 1123,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4420",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4420",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1123"
+    }
+  },
+  {
+    "i": {
+      "identity": 1124,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4421",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4421",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1124"
+    }
+  },
+  {
+    "i": {
+      "identity": 1125,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4423",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4158",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4423",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1125"
+    }
+  },
+  {
+    "i": {
+      "identity": 1136,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4534",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4534",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1136"
+    }
+  },
+  {
+    "i": {
+      "identity": 1137,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4538",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4538",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1137"
+    }
+  },
+  {
+    "i": {
+      "identity": 1138,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4542",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4542",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1138"
+    }
+  },
+  {
+    "i": {
+      "identity": 1139,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4544",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4544",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1139"
+    }
+  },
+  {
+    "i": {
+      "identity": 1140,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4547",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4547",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1140"
+    }
+  },
+  {
+    "i": {
+      "identity": 1141,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4549",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4549",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1141"
+    }
+  },
+  {
+    "i": {
+      "identity": 1142,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4552",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4552",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1142"
+    }
+  },
+  {
+    "i": {
+      "identity": 1143,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4553",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4553",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1143"
+    }
+  },
+  {
+    "i": {
+      "identity": 1144,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4554",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4554",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1144"
+    }
+  },
+  {
+    "i": {
+      "identity": 1145,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4557",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4557",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1145"
+    }
+  },
+  {
+    "i": {
+      "identity": 1146,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4560",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4560",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1146"
+    }
+  },
+  {
+    "i": {
+      "identity": 1147,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4562",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4562",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1147"
+    }
+  },
+  {
+    "i": {
+      "identity": 1148,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4565",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4565",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1148"
+    }
+  },
+  {
+    "i": {
+      "identity": 1149,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4569",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4569",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1149"
+    }
+  },
+  {
+    "i": {
+      "identity": 1150,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4572",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4572",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1150"
+    }
+  },
+  {
+    "i": {
+      "identity": 1151,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4574",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4574",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1151"
+    }
+  },
+  {
+    "i": {
+      "identity": 1152,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4577",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4577",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1152"
+    }
+  },
+  {
+    "i": {
+      "identity": 1153,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4579",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4579",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1153"
+    }
+  },
+  {
+    "i": {
+      "identity": 1154,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4581",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4581",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1154"
+    }
+  },
+  {
+    "i": {
+      "identity": 1155,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4584",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4584",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1155"
+    }
+  },
+  {
+    "i": {
+      "identity": 1156,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4587",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4587",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1156"
+    }
+  },
+  {
+    "i": {
+      "identity": 1157,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4589",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4589",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1157"
+    }
+  },
+  {
+    "i": {
+      "identity": 1158,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4591",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4591",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1158"
+    }
+  },
+  {
+    "i": {
+      "identity": 1159,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4594",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4594",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1159"
+    }
+  },
+  {
+    "i": {
+      "identity": 1160,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4598",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4598",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1160"
+    }
+  },
+  {
+    "i": {
+      "identity": 1161,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4601",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4601",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1161"
+    }
+  },
+  {
+    "i": {
+      "identity": 1162,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4604",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4604",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1162"
+    }
+  },
+  {
+    "i": {
+      "identity": 1163,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4607",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4607",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1163"
+    }
+  },
+  {
+    "i": {
+      "identity": 1164,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4610",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4610",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1164"
+    }
+  },
+  {
+    "i": {
+      "identity": 1165,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4614",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4614",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1165"
+    }
+  },
+  {
+    "i": {
+      "identity": 1166,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4618",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4618",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1166"
+    }
+  },
+  {
+    "i": {
+      "identity": 1167,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4621",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4621",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1167"
+    }
+  },
+  {
+    "i": {
+      "identity": 1168,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4624",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4624",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1168"
+    }
+  },
+  {
+    "i": {
+      "identity": 1169,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4627",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4627",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1169"
+    }
+  },
+  {
+    "i": {
+      "identity": 1170,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4630",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4630",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1170"
+    }
+  },
+  {
+    "i": {
+      "identity": 1171,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4634",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4634",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1171"
+    }
+  },
+  {
+    "i": {
+      "identity": 1172,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4637",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4637",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1172"
+    }
+  },
+  {
+    "i": {
+      "identity": 1173,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4640",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4640",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1173"
+    }
+  },
+  {
+    "i": {
+      "identity": 1174,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4643",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4643",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1174"
+    }
+  },
+  {
+    "i": {
+      "identity": 1175,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4646",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4646",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1175"
+    }
+  },
+  {
+    "i": {
+      "identity": 1176,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4650",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4650",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1176"
+    }
+  },
+  {
+    "i": {
+      "identity": 1177,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4654",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4654",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1177"
+    }
+  },
+  {
+    "i": {
+      "identity": 1178,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4655",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4655",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1178"
+    }
+  },
+  {
+    "i": {
+      "identity": 1179,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4657",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4657",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1179"
+    }
+  },
+  {
+    "i": {
+      "identity": 1180,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4660",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4660",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1180"
+    }
+  },
+  {
+    "i": {
+      "identity": 1181,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4662",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4662",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1181"
+    }
+  },
+  {
+    "i": {
+      "identity": 1182,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4666",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4666",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1182"
+    }
+  },
+  {
+    "i": {
+      "identity": 1183,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4669",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4669",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1183"
+    }
+  },
+  {
+    "i": {
+      "identity": 1184,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4672",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4672",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1184"
+    }
+  },
+  {
+    "i": {
+      "identity": 1185,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4675",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4675",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1185"
+    }
+  },
+  {
+    "i": {
+      "identity": 1186,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4678",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4678",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1186"
+    }
+  },
+  {
+    "i": {
+      "identity": 1187,
+      "labels": [
+        "Intervention"
+      ],
+      "properties": {
+        "intervention_type": "vaccination",
+        "intervention_id": "4682",
+        "dosage_unit_id": "OBI_0000984",
+        "T0_definition": "Time of initial vaccine administration",
+        "experiment_id": "4534",
+        "intervention_type_id": "VO_0000001",
+        "reference_source": "ImmPort",
+        "intervention_route_id": "VO_0000574",
+        "intervention_unit": "Days",
+        "intervention_time_unit_id": "UO_0000035",
+        "organism_id": "4682",
+        "material": "Influenza virus vaccine",
+        "intervention_time": "0",
+        "material_id": "VO_0000642",
+        "source_id": "VIGET"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1187"
+    }
+  }
+]

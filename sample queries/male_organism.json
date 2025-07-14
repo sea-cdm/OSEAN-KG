@@ -1,0 +1,1442 @@
+﻿[
+  {
+    "o": {
+      "identity": 1358,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "477",
+        "reference_id": "SUB146673",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1358"
+    }
+  },
+  {
+    "o": {
+      "identity": 1360,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "482",
+        "reference_id": "SUB146658",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1360"
+    }
+  },
+  {
+    "o": {
+      "identity": 1365,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "501",
+        "reference_id": "SUB146681",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1365"
+    }
+  },
+  {
+    "o": {
+      "identity": 1369,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "515",
+        "reference_id": "SUB146688",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Asian"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1369"
+    }
+  },
+  {
+    "o": {
+      "identity": 1370,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "519",
+        "reference_id": "SUB146690",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1370"
+    }
+  },
+  {
+    "o": {
+      "identity": 1372,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "527",
+        "reference_id": "SUB146672",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1372"
+    }
+  },
+  {
+    "o": {
+      "identity": 1375,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "539",
+        "reference_id": "SUB146701",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1375"
+    }
+  },
+  {
+    "o": {
+      "identity": 1378,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "551",
+        "reference_id": "SUB146704",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1378"
+    }
+  },
+  {
+    "o": {
+      "identity": 1379,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "555",
+        "reference_id": "SUB146710",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1379"
+    }
+  },
+  {
+    "o": {
+      "identity": 1380,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "559",
+        "reference_id": "SUB146714",
+        "experiment_id": "466",
+        "group_id": "SDY520 GSE101709",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1380"
+    }
+  },
+  {
+    "o": {
+      "identity": 1401,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "643",
+        "reference_id": "SUB187451",
+        "experiment_id": "643",
+        "group_id": "SDY1289 GSE13699",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Not Specified"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1401"
+    }
+  },
+  {
+    "o": {
+      "identity": 1402,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "644",
+        "reference_id": "SUB187452",
+        "experiment_id": "643",
+        "group_id": "SDY1289 GSE13699",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Not Specified"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1402"
+    }
+  },
+  {
+    "o": {
+      "identity": 1403,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "647",
+        "reference_id": "SUB187453",
+        "experiment_id": "643",
+        "group_id": "SDY1289 GSE13699",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Not Specified"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1403"
+    }
+  },
+  {
+    "o": {
+      "identity": 1413,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "695",
+        "reference_id": "SUB187463",
+        "experiment_id": "643",
+        "group_id": "SDY1289 GSE13699",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Not Specified"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1413"
+    }
+  },
+  {
+    "o": {
+      "identity": 1417,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "736",
+        "reference_id": "SUB187467",
+        "experiment_id": "643",
+        "group_id": "SDY1289 GSE13699",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Not Specified"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1417"
+    }
+  },
+  {
+    "o": {
+      "identity": 1927,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "2641",
+        "reference_id": "SUB112995",
+        "experiment_id": "2641",
+        "group_id": "SDY63 GSE59714_0",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1927"
+    }
+  },
+  {
+    "o": {
+      "identity": 1932,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "2660",
+        "reference_id": "SUB112984",
+        "experiment_id": "2641",
+        "group_id": "SDY63 GSE59714_0",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1932"
+    }
+  },
+  {
+    "o": {
+      "identity": 1933,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "2663",
+        "reference_id": "SUB112974",
+        "experiment_id": "2641",
+        "group_id": "SDY63 GSE59714_0",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:1933"
+    }
+  },
+  {
+    "o": {
+      "identity": 2071,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3438",
+        "reference_id": "SUB120418",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Other"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2071"
+    }
+  },
+  {
+    "o": {
+      "identity": 2075,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3454",
+        "reference_id": "SUB120424",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2075"
+    }
+  },
+  {
+    "o": {
+      "identity": 2076,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3458",
+        "reference_id": "SUB120425",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2076"
+    }
+  },
+  {
+    "o": {
+      "identity": 2077,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3462",
+        "reference_id": "SUB120427",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2077"
+    }
+  },
+  {
+    "o": {
+      "identity": 2080,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3474",
+        "reference_id": "SUB120435",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2080"
+    }
+  },
+  {
+    "o": {
+      "identity": 2084,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3490",
+        "reference_id": "SUB120441",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2084"
+    }
+  },
+  {
+    "o": {
+      "identity": 2086,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3498",
+        "reference_id": "SUB120445",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Unknown"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2086"
+    }
+  },
+  {
+    "o": {
+      "identity": 2091,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3518",
+        "reference_id": "SUB120458",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2091"
+    }
+  },
+  {
+    "o": {
+      "identity": 2094,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3530",
+        "reference_id": "SUB120462",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2094"
+    }
+  },
+  {
+    "o": {
+      "identity": 2096,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3538",
+        "reference_id": "SUB120467",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2096"
+    }
+  },
+  {
+    "o": {
+      "identity": 2097,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3542",
+        "reference_id": "SUB120469",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2097"
+    }
+  },
+  {
+    "o": {
+      "identity": 2099,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3550",
+        "reference_id": "SUB120472",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Asian"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2099"
+    }
+  },
+  {
+    "o": {
+      "identity": 2100,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3554",
+        "reference_id": "SUB120473",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2100"
+    }
+  },
+  {
+    "o": {
+      "identity": 2104,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3570",
+        "reference_id": "SUB120481",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2104"
+    }
+  },
+  {
+    "o": {
+      "identity": 2105,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3574",
+        "reference_id": "SUB120483",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2105"
+    }
+  },
+  {
+    "o": {
+      "identity": 2106,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3578",
+        "reference_id": "SUB120484",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2106"
+    }
+  },
+  {
+    "o": {
+      "identity": 2108,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "3586",
+        "reference_id": "SUB120487",
+        "experiment_id": "3438",
+        "group_id": "SDY404 GSE59714_1",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2108"
+    }
+  },
+  {
+    "o": {
+      "identity": 2209,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4158",
+        "reference_id": "SUB123268",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2209"
+    }
+  },
+  {
+    "o": {
+      "identity": 2213,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4162",
+        "reference_id": "SUB123284",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2213"
+    }
+  },
+  {
+    "o": {
+      "identity": 2220,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4169",
+        "reference_id": "SUB123322",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2220"
+    }
+  },
+  {
+    "o": {
+      "identity": 2221,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4170",
+        "reference_id": "SUB123323",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2221"
+    }
+  },
+  {
+    "o": {
+      "identity": 2224,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4173",
+        "reference_id": "SUB123333",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2224"
+    }
+  },
+  {
+    "o": {
+      "identity": 2225,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4174",
+        "reference_id": "SUB123335",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Other"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2225"
+    }
+  },
+  {
+    "o": {
+      "identity": 2228,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4206",
+        "reference_id": "SUB123321",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE95584",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2228"
+    }
+  },
+  {
+    "o": {
+      "identity": 2230,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4406",
+        "reference_id": "SUB123311",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE59743",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2230"
+    }
+  },
+  {
+    "o": {
+      "identity": 2232,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4415",
+        "reference_id": "SUB123347",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE59743",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2232"
+    }
+  },
+  {
+    "o": {
+      "identity": 2235,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4418",
+        "reference_id": "SUB123355",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE59743",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2235"
+    }
+  },
+  {
+    "o": {
+      "identity": 2237,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4420",
+        "reference_id": "SUB123358",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE59743",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2237"
+    }
+  },
+  {
+    "o": {
+      "identity": 2238,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4421",
+        "reference_id": "SUB123361",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE59743",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2238"
+    }
+  },
+  {
+    "o": {
+      "identity": 2239,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4423",
+        "reference_id": "SUB123364",
+        "experiment_id": "4158",
+        "group_id": "SDY400 GSE59743",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2239"
+    }
+  },
+  {
+    "o": {
+      "identity": 2251,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4538",
+        "reference_id": "SUB142618",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2251"
+    }
+  },
+  {
+    "o": {
+      "identity": 2254,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4547",
+        "reference_id": "SUB142621",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2254"
+    }
+  },
+  {
+    "o": {
+      "identity": 2255,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4549",
+        "reference_id": "SUB142622",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2255"
+    }
+  },
+  {
+    "o": {
+      "identity": 2257,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4553",
+        "reference_id": "SUB142625",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2257"
+    }
+  },
+  {
+    "o": {
+      "identity": 2259,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4557",
+        "reference_id": "SUB142627",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2259"
+    }
+  },
+  {
+    "o": {
+      "identity": 2261,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4562",
+        "reference_id": "SUB142629",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2261"
+    }
+  },
+  {
+    "o": {
+      "identity": 2266,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4577",
+        "reference_id": "SUB142633",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2266"
+    }
+  },
+  {
+    "o": {
+      "identity": 2267,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4579",
+        "reference_id": "SUB142634",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2267"
+    }
+  },
+  {
+    "o": {
+      "identity": 2270,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4587",
+        "reference_id": "SUB142636",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2270"
+    }
+  },
+  {
+    "o": {
+      "identity": 2271,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4589",
+        "reference_id": "SUB142637",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2271"
+    }
+  },
+  {
+    "o": {
+      "identity": 2272,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4591",
+        "reference_id": "SUB142640",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2272"
+    }
+  },
+  {
+    "o": {
+      "identity": 2273,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4594",
+        "reference_id": "SUB142641",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2273"
+    }
+  },
+  {
+    "o": {
+      "identity": 2276,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4604",
+        "reference_id": "SUB142610",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2276"
+    }
+  },
+  {
+    "o": {
+      "identity": 2280,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4618",
+        "reference_id": "SUB142603",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Asian"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2280"
+    }
+  },
+  {
+    "o": {
+      "identity": 2284,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4630",
+        "reference_id": "SUB142612",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2284"
+    }
+  },
+  {
+    "o": {
+      "identity": 2285,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4634",
+        "reference_id": "SUB142657",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2285"
+    }
+  },
+  {
+    "o": {
+      "identity": 2286,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4637",
+        "reference_id": "SUB142658",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2286"
+    }
+  },
+  {
+    "o": {
+      "identity": 2290,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4650",
+        "reference_id": "SUB142604",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Asian"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2290"
+    }
+  },
+  {
+    "o": {
+      "identity": 2296,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4666",
+        "reference_id": "SUB142614",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2296"
+    }
+  },
+  {
+    "o": {
+      "identity": 2297,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4669",
+        "reference_id": "SUB142666",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2297"
+    }
+  },
+  {
+    "o": {
+      "identity": 2298,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4672",
+        "reference_id": "SUB142667",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2298"
+    }
+  },
+  {
+    "o": {
+      "identity": 2299,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4675",
+        "reference_id": "SUB142668",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2299"
+    }
+  },
+  {
+    "o": {
+      "identity": 2300,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4678",
+        "reference_id": "SUB142670",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "White"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2300"
+    }
+  },
+  {
+    "o": {
+      "identity": 2301,
+      "labels": [
+        "Organism"
+      ],
+      "properties": {
+        "sex_id": "PATO_0000384",
+        "organism_id": "4682",
+        "reference_id": "SUB142616",
+        "experiment_id": "4534",
+        "group_id": "SDY56 GSE74817",
+        "reference_source": "ImmPort",
+        "sex": "Male",
+        "age_unit_id": "UO_0000001",
+        "type": "Black or African American"
+      },
+      "elementId": "4:68178f79-ef04-4a72-ae31-b00f876b733e:2301"
+    }
+  }
+]
