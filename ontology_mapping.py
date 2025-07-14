@@ -108,6 +108,7 @@ def map_ontology(driver):
             map_experiment_nodes(session) # Map Analysis nodes
             map_intervention_nodes(session) # Map Intervention nodes
             map_material_nodes(session) # Map Material nodes
+            map_organism_nodes(session) # Map Organism nodes
 
             print("\nNode mapping completed successfully, starting relationship mapping...")
 
@@ -323,6 +324,38 @@ def map_material_nodes(session):
     except Exception as e:
         print(f"An error occurred during Material node mapping: {e}")
 
+
+def map_organism_nodes(session):
+    """
+    Maps Organism nodes to Resource nodes based on various ontology IDs (e.g., PATO, NCBITaxon, UO).
+    """
+    print("Mapping Organism nodes to their corresponding Ontology Resources...")
+    
+    # Define the mappings: property name, relationship type
+    mappings = {
+        "species_id": "IS_SPECIES",
+    }
+
+    for prop_name, rel_type in mappings.items():
+        try:
+            # The species_id from NCBITaxon might not have an underscore, so we replace it.
+            # e.g., NCBITaxon_9606 becomes NCBITaxon:9606 in some ontology versions.
+            # This query handles both cases gracefully.
+            query = f"""
+                MATCH (o:Organism)
+                WHERE o.{prop_name} IS NOT NULL AND o.{prop_name} <> ''
+                MATCH (resource:Resource)
+                WHERE last(split(resource.uri, '/')) = o.{prop_name}
+                   OR last(split(resource.uri, '/')) = replace(o.{prop_name}, '_', ':')
+                MERGE (o)-[:{rel_type}]->(resource)
+                RETURN count(o) as mappedCount
+            """
+            result = session.run(query)
+            mapped_count = result.single()['mappedCount']
+            if mapped_count > 0:
+                print(f"-> Created {mapped_count} ':{rel_type}' relationships from Organism nodes.")
+        except Exception as e:
+            print(f"An error occurred while mapping '{prop_name}' with relationship ':{rel_type}': {e}")
 
 def import_data():
     """
