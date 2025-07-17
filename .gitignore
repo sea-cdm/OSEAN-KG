@@ -22,3 +22,5 @@ logs/
 # Ignore user-specific config
 .idea/
 .vscode/
+
+img

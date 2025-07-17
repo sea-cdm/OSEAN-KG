@@ -79,6 +79,129 @@ def import_ontology_complete(driver):
             import traceback
             print(traceback.format_exc())
 
+def add_id_prefixes(driver):
+    """
+    Add prefixes to various ID fields in the Neo4j database.
+    
+    This function adds meaningful prefixes to ID fields to make them more descriptive:
+    - organism_id: gets 'org_' prefix
+    - experiment_id: gets 'exp_' prefix
+    - intervention_id: gets 'int_' prefix
+    - material_id: gets 'mat_' prefix
+    - sample_id: gets 'sample_' prefix
+    - Add more mappings as needed for your specific use case
+    
+    Args:
+        driver (GraphDatabase.driver): An active Neo4j database driver connection
+    """
+    with driver.session() as session:
+        try:
+            print("Adding prefixes to ID fields...")
+            
+            # Define prefix mappings: field_name -> prefix
+            prefix_mappings = {
+                'organism_id': 'org_',
+                'experiment_id': 'exp_',
+                'intervention_id': 'int_',
+                'material_id': 'mat_',
+                'sample_id': 'sam_',
+                'assay_id': 'asy_',
+                'analysis_id': 'ana_',
+            }
+            
+            # Apply prefixes to Organism nodes
+            for field, prefix in prefix_mappings.items():
+                # Update organisms
+                result = session.run(f"""
+                    MATCH (o:Organism)
+                    WHERE o.{field} IS NOT NULL AND o.{field} <> '' 
+                    AND NOT o.{field} STARTS WITH '{prefix}'
+                    SET o.{field} = '{prefix}' + toString(o.{field})
+                    RETURN count(o) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Organism nodes for field '{field}'")
+
+                # Update sample
+                result = session.run(f"""
+                    MATCH (sam:Sample)
+                    WHERE sam.{field} IS NOT NULL AND sam.{field} <> '' 
+                    AND NOT sam.{field} STARTS WITH '{prefix}'
+                    SET sam.{field} = '{prefix}' + toString(sam.{field})
+                    RETURN count(sam) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Sample nodes for field '{field}'")
+
+                # Update sample
+                result = session.run(f"""
+                    MATCH (a:Analysis)
+                    WHERE a.{field} IS NOT NULL AND a.{field} <> '' 
+                    AND NOT a.{field} STARTS WITH '{prefix}'
+                    SET a.{field} = '{prefix}' + toString(a.{field})
+                    RETURN count(a) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Analysis nodes for field '{field}'")
+
+                # Update assay
+                result = session.run(f"""
+                    MATCH (a:Assay)
+                    WHERE a.{field} IS NOT NULL AND a.{field} <> '' 
+                    AND NOT a.{field} STARTS WITH '{prefix}'
+                    SET a.{field} = '{prefix}' + toString(a.{field})
+                    RETURN count(a) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Analysis nodes for field '{field}'")
+                
+                # Update experiments
+                result = session.run(f"""
+                    MATCH (e:Experiment)
+                    WHERE e.{field} IS NOT NULL AND e.{field} <> '' 
+                    AND NOT e.{field} STARTS WITH '{prefix}'
+                    SET e.{field} = '{prefix}' + toString(e.{field})
+                    RETURN count(e) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Experiment nodes for field '{field}'")
+                
+                # Update interventions
+                result = session.run(f"""
+                    MATCH (i:Intervention)
+                    WHERE i.{field} IS NOT NULL AND i.{field} <> '' 
+                    AND NOT i.{field} STARTS WITH '{prefix}'
+                    SET i.{field} = '{prefix}' + toString(i.{field})
+                    RETURN count(i) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Intervention nodes for field '{field}'")
+                
+                # Update materials
+                result = session.run(f"""
+                    MATCH (m:Material)
+                    WHERE m.{field} IS NOT NULL AND m.{field} <> '' 
+                    AND NOT m.{field} STARTS WITH '{prefix}'
+                    SET m.{field} = '{prefix}' + toString(m.{field})
+                    RETURN count(m) as updatedCount
+                """)
+                count = result.single()['updatedCount']
+                if count > 0:
+                    print(f"Added '{prefix}' prefix to {count} Material nodes for field '{field}'")
+            
+            print("Prefix addition completed successfully")
+            
+        except Exception as e:
+            print(f"Error during prefix addition: {str(e)}")
+            import traceback
+            print(traceback.format_exc())
+
 def map_ontology(driver):
     """
     Map imported ontology nodes to domain-specific nodes with proper ontological relationships.
@@ -203,7 +326,12 @@ def map_experiment_nodes(session):
             WHERE e.experiment_type_id IS NOT NULL AND e.experiment_type_id <> ''
             MATCH (resource:Resource)
             // Match the VO ID from the experiment with the last part of the resource URI
-            WHERE last(split(resource.uri, '/')) = e.experiment_type_id
+            // Handle prefixed IDs by removing the prefix before matching
+            WHERE last(split(resource.uri, '/')) = 
+                CASE 
+                    WHEN e.experiment_type_id STARTS WITH 'exp_type_' THEN substring(e.experiment_type_id, 9)
+                    ELSE e.experiment_type_id
+                END
             WITH e, resource
             // Set properties on the experiment node, mirroring your vaccine mapping logic for consistency
             SET e.vo_representation_uri = resource.uri,
@@ -255,21 +383,25 @@ def map_intervention_nodes(session):
     """
     print("Mapping Intervention nodes to their corresponding Ontology Resources...")
     
-    # Define the mappings: property name, relationship type
+    # Define the mappings: property name, relationship type, prefix to remove
     mappings = {
-        "intervention_type_id": "HAS_TYPE",
-        "material_id": "USES_MATERIAL",
-        "intervention_route_id": "HAS_ROUTE",
-        "dosage_unit_id": "HAS_DOSAGE_UNIT"
+        "intervention_type_id": ("HAS_TYPE", "int_type_"),
+        "material_id": ("USES_MATERIAL", "mat_"),
+        "intervention_route_id": ("HAS_ROUTE", "route_"),
+        "dosage_unit_id": ("HAS_DOSAGE_UNIT", "dosage_")
     }
 
-    for prop_name, rel_type in mappings.items():
+    for prop_name, (rel_type, prefix) in mappings.items():
         try:
             query = f"""
                 MATCH (i:Intervention)
                 WHERE i.{prop_name} IS NOT NULL AND i.{prop_name} <> ''
                 MATCH (resource:Resource)
-                WHERE last(split(resource.uri, '/')) = i.{prop_name}
+                WHERE last(split(resource.uri, '/')) = 
+                    CASE 
+                        WHEN i.{prop_name} STARTS WITH '{prefix}' THEN substring(i.{prop_name}, {len(prefix) + 1})
+                        ELSE i.{prop_name}
+                    END
                 MERGE (i)-[:{rel_type}]->(resource)
                 RETURN count(i) as mappedCount
             """
@@ -291,7 +423,11 @@ def map_material_nodes(session):
             MATCH (m:Material)
             WHERE m.material_name_id IS NOT NULL AND m.material_name_id <> ''
             MATCH (resource:Resource)
-            WHERE last(split(resource.uri, '/')) = m.material_name_id
+            WHERE last(split(resource.uri, '/')) = 
+                CASE 
+                    WHEN m.material_name_id STARTS WITH 'mat_name_' THEN substring(m.material_name_id, 10)
+                    ELSE m.material_name_id
+                END
             WITH m, resource
             // Set properties on the material node, copying from the ontology resource
             SET m.vo_representation_uri = resource.uri,
@@ -331,12 +467,12 @@ def map_organism_nodes(session):
     """
     print("Mapping Organism nodes to their corresponding Ontology Resources...")
     
-    # Define the mappings: property name, relationship type
+    # Define the mappings: property name, relationship type, prefix to remove
     mappings = {
-        "species_id": "IS_SPECIES",
+        "species_id": ("IS_SPECIES", "species_"),
     }
 
-    for prop_name, rel_type in mappings.items():
+    for prop_name, (rel_type, prefix) in mappings.items():
         try:
             # The species_id from NCBITaxon might not have an underscore, so we replace it.
             # e.g., NCBITaxon_9606 becomes NCBITaxon:9606 in some ontology versions.
@@ -345,8 +481,16 @@ def map_organism_nodes(session):
                 MATCH (o:Organism)
                 WHERE o.{prop_name} IS NOT NULL AND o.{prop_name} <> ''
                 MATCH (resource:Resource)
-                WHERE last(split(resource.uri, '/')) = o.{prop_name}
-                   OR last(split(resource.uri, '/')) = replace(o.{prop_name}, '_', ':')
+                WHERE last(split(resource.uri, '/')) = 
+                    CASE 
+                        WHEN o.{prop_name} STARTS WITH '{prefix}' THEN substring(o.{prop_name}, {len(prefix) + 1})
+                        ELSE o.{prop_name}
+                    END
+                   OR last(split(resource.uri, '/')) = 
+                    CASE 
+                        WHEN o.{prop_name} STARTS WITH '{prefix}' THEN replace(substring(o.{prop_name}, {len(prefix) + 1}), '_', ':')
+                        ELSE replace(o.{prop_name}, '_', ':')
+                    END
                 MERGE (o)-[:{rel_type}]->(resource)
                 RETURN count(o) as mappedCount
             """
@@ -364,16 +508,21 @@ def import_data():
     This function:
     1. Establishes a Neo4j database connection
     2. Imports the complete ontology
-    3. Maps domain-specific nodes
-    4. Updates Resource node properties
-    5. Handles any exceptions during the process
+    3. Adds prefixes to ID fields
+    4. Maps domain-specific nodes
+    5. Updates Resource node properties
+    6. Handles any exceptions during the process
 
     Raises:
         Exception: If there are issues during the entire import process
     """
     driver = GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD))
     try:        
-        # import_ontology_complete(driver)
+        import_ontology_complete(driver)
+        
+        # Add prefixes to ID fields BEFORE mapping
+        add_id_prefixes(driver)
+        
         map_ontology(driver)
         with driver.session() as session:
             # Update Resource node properties to human-readable labels
