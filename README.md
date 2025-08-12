@@ -75,33 +75,80 @@ The script generates the following primary nodes and relationships:
 
 ## Prerequisites
 
-- Python 3.x
-- A running Neo4j Database instance (Community or Enterprise).
-- The `neo4j` Python library.
-- Neosemantics (n10s): This Neo4j extension is used for importing the OWL ontology.
+Before you begin, ensure you have the following installed:
 
----
-
-## Setup and Usage
-
-1.  **Install the Neo4j Library:**
+* **Python 3.6 or higher:** Required to run the Python scripts.
+* **Neo4j Graph Database:** You need a running instance of Neo4j.
+* **Neo4j Python Driver:** This project uses the official Neo4j Python driver. You can install it using pip:
     ```bash
     pip install neo4j
     ```
+* **dotenv:** For managing environment variables. Install using pip:
+    ```bash
+    pip install python-dotenv
+    ```
+* **Neosemantics (n10s):** This Neo4j extension is used for importing the OWL ontology.
 
-2.  **Load Ontologies into Neo4j:**
-    Before running this script, ensure you have loaded the necessary ontologies (VO, OBI, etc.) into your Neo4j database. A common way to do this is with the `n10s` (Neosemantics) plugin for Neo4j. All ontology terms should be loaded as nodes with the label `:Resource`.
+## Installation
 
-3.  **Configure the Database Connection:**
-    Open the Python script and update the connection details in the `if __name__ == "__main__"` block to match your Neo4j instance:
-    ```python
-    # !!! IMPORTANT: Replace with your Neo4j database credentials !!!
-    URI = "bolt://localhost:7687"
-    AUTH = ("neo4j", "your_password")
+1.  **Clone the repository (if you have the code in a repository):**
+    ```bash
+    git clone <repository_url>
+    cd <repository_directory>
     ```
 
-4.  **Run the Script:**
-    Execute the script from your terminal. It will connect to the database, load the sample data, and run all the mapping functions.
+## Configuration
+
+### .env File Configuration
+
+This project uses a `.env` file to store sensitive information like your Neo4j connection URI, username, and password.
+
+1.  **Create a `.env` file** in the root directory of your project.
+2.  **Add your Neo4j connection details** to the `.env` file. Replace the placeholders with your actual credentials:
+    ```dotenv
+    URI=bolt://localhost:7687  # Replace with your Neo4j URI
+    USERNAME=neo4j             # Replace with your Neo4j username
+    PASSWORD=your_password     # Replace with your Neo4j password
+    ```
+
+### Neosemantics (n10s) Configuration
+
+To enable the import of the OWL ontology, you need to configure Neosemantics in your Neo4j instance. Follow these steps:
+
+1.  **Download Neosemantics:** Download the latest stable release JAR file of Neosemantics from the official GitHub releases page: [https://github.com/neo4j-labs/neosemantics/releases](https://github.com/neo4j-labs/neosemantics/releases). Look for a file named something like `neosemantics-{version}.jar`.
+
+2.  **Place the JAR file in the `plugins` directory:** Locate your Neo4j installation directory. Inside it, you will find a `plugins` directory. Copy the downloaded Neosemantics JAR file into this directory.
+
+3.  **Configure `neo4j.conf`:** Open the `neo4j.conf` file located in the `conf` directory of your Neo4j installation.
+
+4.  **Add the following lines to the `neo4j.conf` file:**
+
+    * **Enable unmanaged extensions for Neosemantics:**
+        ```
+        dbms.unmanaged_extension_classes=n10s.extension=/rdf
+        ```
+    * **Set the import directory:** This allows Neo4j to access files in the specified import directory. While this project imports from a remote URL, it's a good practice to configure it.
+        ```
+        dbms.directories.import=import
+        ```
+        **Note:** Ensure that the `import` directory exists within your Neo4j installation directory. You might need to create it if it doesn't exist.
+
+5.  **Restart Neo4j:** After making these changes, you need to restart your Neo4j server for the configuration to take effect.
+
+## Usage
+
+1.  **Activate your Python environment (if applicable):** If you are working within a virtual environment, make sure to activate it. For example, if you used `venv`:
     ```bash
-    python your_script_name.py
+    source neo4j-env/Scripts/activate  # On Windows
+    source neo4j-env/bin/activate    # On macOS and Linux
+    ```
+    (This step is also mentioned in the code comments).
+
+2.  **Run the main script (`__main__.py` if you structure your project that way, or directly run the provided script):** Execute the 2 Python scripts to start the import and mapping process.
+    ```bash
+    python import_to_neo4j.py
+    ```
+    and then
+    ```bash
+    python ontology_mapping.py
     ```
