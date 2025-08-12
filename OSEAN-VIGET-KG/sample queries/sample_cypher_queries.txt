@@ -1,0 +1,24 @@
+female_organism.json:
+MATCH (o:Organism)-[:UNDERGOES]->(i:Intervention)
+WHERE o.sex = 'Female' AND (i.material CONTAINS 'Influenza' OR i.material CONTAINS 'Yellow fever')
+RETURN o
+
+influenza_intervention.json:
+Match (i:Intervention)
+where i.material contains "Influenza"
+return i
+
+male_organism.json:
+MATCH (o:Organism)-[:UNDERGOES]->(i:Intervention)
+WHERE o.sex = 'Male' AND (i.material CONTAINS 'Influenza' OR i.material CONTAINS 'Yellow fever')
+RETURN o
+
+parasite_samples.json:
+Match (i:Intervention)
+where i.material contains “Plasmodium”
+return i
+
+yellow_fever_intervention.json:
+Match (i:Intervention)
+where i.material contains "Yellow fever"
+return i
